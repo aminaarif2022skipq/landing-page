@@ -84,7 +84,7 @@ body{
 
 .right{
     display: flex;
-    justify-content: center;
+    justify-content: rigth;
 }
 
 .right  img{
