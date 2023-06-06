@@ -83,8 +83,7 @@ body{
 }
 
 .right  img{
-    max-width: 100%;
-    height: auto;
+    width: 250px;
     border-radius: 5px;
     box-shadow: 0 0 30px -10px whitesmoke;
 }
