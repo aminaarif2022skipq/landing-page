@@ -82,6 +82,11 @@ body{
    gap: .3rem;
 }
 
+.right{
+    display: flex;
+    justify-content: center;
+}
+
 .right  img{
     width: 250px;
     border-radius: 5px;
