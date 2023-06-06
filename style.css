@@ -120,13 +120,15 @@ button:hover{
 
 .info h2{
     color: #ffa865;
+    font-size: 30px;
+    font-weight: bolder;
 }
 .container{
     display: flex;
     justify-content: space-around;
     gap: 10px;
     width: 100%;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 .card{
     width: 150px;
